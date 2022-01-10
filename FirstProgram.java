@@ -4,7 +4,8 @@ public class FirstProgram {
 
     public static void main(String[] args ) {
         System.out.println("Neha Brahmbhatt ");
-        System.out.println("SoftWare Testing Point");
+        System.out.println("SoftWare Testing Manual Point");
+        
 
 
 
